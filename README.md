@@ -13,11 +13,19 @@ This repo contains study material and links
     - Spring Boot
     - Spring Data JPA, Hibernate
     - Spring Actuator
+    - Exceptions
     - etc
+- UnitTesting
 - Design Patterns
     - Design Patterns
     - Microservice DPs
-    - etc
+    - Principles
+          - SOLID
+          - ACID
+          - CAP
+          - YAGANI
+          - DRY
+          - KISS
 - System Design
     - Concepts
     - Algos
@@ -27,7 +35,15 @@ This repo contains study material and links
     - Mysql
     - MongoDB
     - Design
-
 - Time Complexity
 - DS and Algo
-- 
+- Data for Practice
+    - Stream
+    - MySql
+    - MongoDB
+- Azure
+- AWS
+- Container
+- Kubernete
+- DevOps
+- Linux
